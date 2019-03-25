@@ -1,0 +1,11 @@
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\bin\Debug\netcoreapp2.1\tpGarage.deps.json
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\bin\Debug\netcoreapp2.1\tpGarage.runtimeconfig.json
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\bin\Debug\netcoreapp2.1\tpGarage.runtimeconfig.dev.json
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\bin\Debug\netcoreapp2.1\tpGarage.dll
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\bin\Debug\netcoreapp2.1\tpGarage.pdb
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.csprojAssemblyReference.cache
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.csproj.CoreCompileInputs.cache
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.AssemblyInfoInputs.cache
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.AssemblyInfo.cs
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.dll
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.pdb
