@@ -4,7 +4,7 @@ using System.Text;
 
 namespace tpGarage
 {
-    class Camion
+    class Camion : Vehicule
     {
     }
 }
