@@ -9,7 +9,7 @@ namespace tpGarage
         //attributs
         private int _idVehicule;
         private static int _incrementIdVehicule;
-        private string _nom;
+        public string Nom { get; set; }
         private int _prix;
         private string _marque;
         private Moteurs _moteur;
@@ -39,8 +39,8 @@ namespace tpGarage
 
             // ------------------------------ > TODO
 
-            // Console.WriteLine("Moteur du vehicule: ");
-            // 
+             Console.WriteLine("Moteur du vehicule: ");
+            _moteur = GetMoteur();
 
             // Console.WriteLine("option du vehicule: ");
             // _option = Console.ReadLine();         
@@ -57,7 +57,44 @@ namespace tpGarage
             _option = option;
         }
 
+        // Fonction 
+        public void getAllInfos()
+        {
 
+        }
 
+        public void addOption()
+        {
+
+        }
+
+        public void getMarque()
+        {
+
+        }
+
+        public string GetMoteur()
+        {
+            
+        }
+
+        public void getOption()
+        {
+
+        }
+
+        public void getPrixHT()
+        {
+
+        }
+
+        public void getTaxe()
+        {
+
+        }
+
+        // TODO
+        // public abstract int CalculerTaxe();
+       
     }
 }
