@@ -37,9 +37,14 @@ namespace tpGarage
             _volumeChargement = volumeChargement;
         }
 
-        public Camion(int nombreEssieux, int poidChargement, int volumeChargement) : base(idVehicule, nom, prix)
+        public Camion(int idVehicule, string nom, int prix) //: base(idVehicule, nom, prix)
         {
         }
+
+
+        //public Camion(int nombreEssieux, int poidChargement, int volumeChargement) : base(idVehicule, nom, prix)
+        //{
+        //}
 
         public override int CalculerTaxe()
         {

@@ -48,12 +48,12 @@ namespace tpGarage
 
         }
 
-        public Vehicule(int idVehicule, string nom, int prix /**string marque, Moteurs moteur, List<Option> option**/)
+        public Vehicule(int idVehicule, string nom, int prix , string marque /**, Moteurs moteur, List<Option> option**/)
         {
             _idVehicule = idVehicule;
             _nom = nom;
             _prix = prix;
-            //_marque = marque;
+            _marque = marque;
             //_moteur = moteur;
             //_option = option;
         }
@@ -64,14 +64,21 @@ namespace tpGarage
 
         }
 
-        public void AfficherInfo()
+        public static void AfficherInfo(Vehicule vehicule, Voiture voiture)
         {
-            Console.WriteLine(IdVehicule);
-            Console.WriteLine(Nom);
-            Console.WriteLine(Prix);
-            Console.WriteLine(Marque);
-            Console.WriteLine(Moteur);
-            Console.WriteLine(Option);
+            Console.WriteLine("");
+            Console.WriteLine("Fiche du vehicule");
+            Console.WriteLine("---------------------------");
+            Console.WriteLine("Marque du vehicule: " + vehicule.Marque);
+            Console.WriteLine("Nom du vehicule: " + vehicule.Nom);
+            Console.WriteLine("Prix du vehicule: " + vehicule.Prix);
+            Console.WriteLine("Taille de coffre du vehicule: " + voiture.TailleCoffre);
+            Console.WriteLine("NombrePorte du vehicule: " + voiture.NombrePorte);
+            Console.WriteLine("NombreSiege du vehicule: " + voiture.NombreSiege);
+            Console.WriteLine("puissance du vehicule : " + voiture.Puissance + " chevaux");
+            Console.WriteLine("---------------------------");
+            //Console.WriteLine(vehicule.);
+            //Console.WriteLine(Option);
 
         }
 

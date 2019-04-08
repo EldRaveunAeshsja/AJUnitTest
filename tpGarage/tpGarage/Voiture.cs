@@ -42,7 +42,7 @@ namespace tpGarage
             TailleCoffre = tailleCoffre;
         }
 
-        public Voiture(int idVehicule, string nom, int prix) : base(idVehicule, nom, prix)
+        public Voiture(int idVehicule, string nom, int prix) // : base(idVehicule, nom, prix)
         {
         }
 

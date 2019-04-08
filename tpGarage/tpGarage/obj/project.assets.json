@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ineri\\.nuget\\packages\\": {},
+    "C:\\Users\\Arnaud Gonin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Epsi B2\\C#\\TpGarage\\AJUnitTest\\tpGarage\\tpGarage\\tpGarage.csproj",
+      "projectUniqueName": "C:\\Users\\Arnaud Gonin\\OneDrive\\Documents\\1---PostBac\\3--- B2\\1---Dev Lourd\\4-- TestUnitaire\\AJUnitTest\\tpGarage\\tpGarage\\tpGarage.csproj",
       "projectName": "tpGarage",
-      "projectPath": "D:\\OneDrive\\Epsi B2\\C#\\TpGarage\\AJUnitTest\\tpGarage\\tpGarage\\tpGarage.csproj",
-      "packagesPath": "C:\\Users\\Ineri\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Epsi B2\\C#\\TpGarage\\AJUnitTest\\tpGarage\\tpGarage\\obj\\",
+      "projectPath": "C:\\Users\\Arnaud Gonin\\OneDrive\\Documents\\1---PostBac\\3--- B2\\1---Dev Lourd\\4-- TestUnitaire\\AJUnitTest\\tpGarage\\tpGarage\\tpGarage.csproj",
+      "packagesPath": "C:\\Users\\Arnaud Gonin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Arnaud Gonin\\OneDrive\\Documents\\1---PostBac\\3--- B2\\1---Dev Lourd\\4-- TestUnitaire\\AJUnitTest\\tpGarage\\tpGarage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ineri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Arnaud Gonin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -6,7 +6,10 @@ namespace tpGarage
     {
         static void Main(string[] args)
         {
-            Voiture voiture = new Voiture(1, "Bmw", 200);
+            Voiture voiture = new Voiture();
+            Vehicule.AfficherInfo(voiture, voiture);
+
+            Console.ReadLine();
             
             
         }
