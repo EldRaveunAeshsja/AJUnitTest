@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace tpGarage
 {
     abstract class Vehicule
@@ -47,28 +48,39 @@ namespace tpGarage
 
         }
 
-        public Vehicule(int idVehicule, string nom, int prix, string marque, Moteurs moteur, List<Option> option)
+        public Vehicule(int idVehicule, string nom, int prix /**string marque, Moteurs moteur, List<Option> option**/)
         {
             _idVehicule = idVehicule;
             _nom = nom;
             _prix = prix;
-            _marque = marque;
-            _moteur = moteur;
-            _option = option;
+            //_marque = marque;
+            //_moteur = moteur;
+            //_option = option;
         }
 
         // Fonction 
-        public void getAllInfos()
+        public void GetAllInfos()
         {
 
         }
 
-        public void addOption()
+        public void AfficherInfo()
+        {
+            Console.WriteLine(IdVehicule);
+            Console.WriteLine(Nom);
+            Console.WriteLine(Prix);
+            Console.WriteLine(Marque);
+            Console.WriteLine(Moteur);
+            Console.WriteLine(Option);
+
+        }
+
+        public void AddOption()
         {
 
         }
 
-        public void getMarque()
+        public void GetMarque()
         {
 
         }
@@ -78,17 +90,17 @@ namespace tpGarage
             return "";   
         }
 
-        public void getOption()
+        public void GetOption()
         {
 
         }
 
-        public void getPrixHT()
+        public void GetPrixHT()
         {
 
         }
 
-        public void getTaxe()
+        public void GetTaxe()
         {
 
         }

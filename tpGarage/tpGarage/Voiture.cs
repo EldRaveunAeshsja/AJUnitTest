@@ -42,6 +42,10 @@ namespace tpGarage
             TailleCoffre = tailleCoffre;
         }
 
+        public Voiture(int idVehicule, string nom, int prix) : base(idVehicule, nom, prix)
+        {
+        }
+
         public override int CalculerTaxe()
         {
             return 0;  

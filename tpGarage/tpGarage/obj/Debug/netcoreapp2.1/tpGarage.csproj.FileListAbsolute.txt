@@ -9,3 +9,14 @@ C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- T
 C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.AssemblyInfo.cs
 C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.dll
 C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\4-- TestUnitaire\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.pdb
+D:\OneDrive\Epsi B2\C#\TpGarage\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.csprojAssemblyReference.cache
+D:\OneDrive\Epsi B2\C#\TpGarage\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.csproj.CoreCompileInputs.cache
+D:\OneDrive\Epsi B2\C#\TpGarage\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.AssemblyInfoInputs.cache
+D:\OneDrive\Epsi B2\C#\TpGarage\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.AssemblyInfo.cs
+D:\OneDrive\Epsi B2\C#\TpGarage\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.dll
+D:\OneDrive\Epsi B2\C#\TpGarage\AJUnitTest\tpGarage\tpGarage\obj\Debug\netcoreapp2.1\tpGarage.pdb
+D:\OneDrive\Epsi B2\C#\TpGarage\AJUnitTest\tpGarage\tpGarage\bin\Debug\netcoreapp2.1\tpGarage.deps.json
+D:\OneDrive\Epsi B2\C#\TpGarage\AJUnitTest\tpGarage\tpGarage\bin\Debug\netcoreapp2.1\tpGarage.runtimeconfig.json
+D:\OneDrive\Epsi B2\C#\TpGarage\AJUnitTest\tpGarage\tpGarage\bin\Debug\netcoreapp2.1\tpGarage.runtimeconfig.dev.json
+D:\OneDrive\Epsi B2\C#\TpGarage\AJUnitTest\tpGarage\tpGarage\bin\Debug\netcoreapp2.1\tpGarage.dll
+D:\OneDrive\Epsi B2\C#\TpGarage\AJUnitTest\tpGarage\tpGarage\bin\Debug\netcoreapp2.1\tpGarage.pdb

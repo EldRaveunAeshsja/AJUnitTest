@@ -12,9 +12,10 @@ namespace tpGarage
         private int _puissance;
 
         // Constructeur
-        public Moteurs(int puissance, Types)
+        public Moteurs(int puissance)
         {
             _puissance = puissance;
+            
         }
 
         // accesseur

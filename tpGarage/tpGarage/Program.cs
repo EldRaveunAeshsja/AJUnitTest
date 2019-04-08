@@ -6,7 +6,9 @@ namespace tpGarage
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Voiture voiture = new Voiture(1, "Bmw", 200);
+            
+            
         }
     }
 }
