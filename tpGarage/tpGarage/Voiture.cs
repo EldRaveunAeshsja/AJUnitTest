@@ -7,7 +7,7 @@ namespace tpGarage
     class Voiture : Vehicule
     {
         // attributs
-        private int _puissance;
+        private int _puissance; 
         private int _nombrePorte;
         private int _nombreSiege;
         private int _tailleCoffre;
@@ -41,6 +41,11 @@ namespace tpGarage
             NombreSiege = nombreSiege;
             TailleCoffre = tailleCoffre;
         }
+
+        public override int CalculerTaxe()
+        {
+            return 0;  
+        } 
 
     }
 }

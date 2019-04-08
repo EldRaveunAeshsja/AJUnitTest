@@ -4,12 +4,12 @@ using System.Text;
 
 namespace tpGarage
 {
-    class Vehicule
+    abstract class Vehicule
     {
         //attributs
         private int _idVehicule;
         private static int _incrementIdVehicule;
-        public string Nom { get; set; }
+        private string _nom;
         private int _prix;
         private string _marque;
         private Moteurs _moteur;
@@ -39,8 +39,8 @@ namespace tpGarage
 
             // ------------------------------ > TODO
 
-             Console.WriteLine("Moteur du vehicule: ");
-            _moteur = GetMoteur();
+            //Console.WriteLine("Moteur du vehicule: ");
+            //_moteur = GetMoteur();
 
             // Console.WriteLine("option du vehicule: ");
             // _option = Console.ReadLine();         
@@ -75,7 +75,7 @@ namespace tpGarage
 
         public string GetMoteur()
         {
-            
+            return "";   
         }
 
         public void getOption()
@@ -93,8 +93,8 @@ namespace tpGarage
 
         }
 
-        // TODO
-        // public abstract int CalculerTaxe();
+        
+        public abstract int CalculerTaxe();
        
     }
 }

@@ -23,5 +23,10 @@ namespace tpGarage
         {
             _cylindree = cylindree;
         }
+
+        public override int CalculerTaxe()
+        {
+            return 0;
+        }
     }
 }

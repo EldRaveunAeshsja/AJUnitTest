@@ -4,9 +4,27 @@ using System.Text;
 
 namespace tpGarage
 {
-    enum Types { Diesel, Essence, Electrique, Hybride };    
+    public enum Types { Diesel, Essence, Electrique, Hybride };    
 
     class Moteurs
     {
+        // attributs
+        private int _puissance;
+
+        // Constructeur
+        public Moteurs(int puissance, Types)
+        {
+            _puissance = puissance;
+        }
+
+        // accesseur
+        public int Puissance { get => _puissance; set => _puissance = value; }
+
+        // fonction
+        public int getAllInfoMoteur()
+        {
+            return Puissance;
+        }
+
     }
 }

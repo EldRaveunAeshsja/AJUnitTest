@@ -37,5 +37,9 @@ namespace tpGarage
             _volumeChargement = volumeChargement;
         }
 
+        public override int CalculerTaxe()
+        {
+            return 0;
+        }
     }
 }
